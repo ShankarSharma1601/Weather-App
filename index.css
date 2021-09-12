@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background:url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Kdlu3l76AIwxKsSk0Q7h-XtJ_Z4_3_TOrw&usqp=CAU) no-repeat ;
+    background-size: 100% 100%;
+}
+.container{
+    margin: 70px auto;
+    
+    text-align: center;
+}
+
+#city{
+    margin: 10px;
+}
+
+#p{
+    margin: 10px;
+}
+
+
+#des{
+    margin: 10px;
+}
